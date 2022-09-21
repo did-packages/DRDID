@@ -1,4 +1,8 @@
 # DRDID 1.0.5
+  * Switch to MIT license
+  
+  * Switch github codes and documentation to did-packages github organization 
+  
   * drop collinear variables in pre_process_drdid.R (useful in drdid command but not other commands)
   
   * Add compatibility with R 3.5

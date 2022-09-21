@@ -1,4 +1,4 @@
-url: https://psantanna.com/DRDID
+url: https://did-packages.github.io/DRDID
 destination: docs
 template:
   params:
@@ -13,7 +13,7 @@ template:
       image: man/figures/logo.png
 authors:
   Pedro H. C. Sant'Anna:
-    href: https://pedrohcgs.github.io/
+    href: https://psantanna.com/
 navbar:
   title: DRDID
   structure:
@@ -39,7 +39,7 @@ navbar:
       href: news/index.html
     github:
       icon: fab fa-github fa-la
-      href: https://github.com/pedrohcgs/DRDID/
+      href: https://github.com/did-packages/DRDID/
     twitter:
       icon: fab fa-twitter fa-lg
       href: http://twitter.com/pedrohcgs
