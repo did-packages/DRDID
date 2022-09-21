@@ -3,7 +3,6 @@
 [![CRAN status](https://www.r-pkg.org/badges/version/DRDID)](https://CRAN.R-project.org/package=DRDID)
 [![Codecov test coverage](https://codecov.io/gh/did-packages/DRDID/branch/master/graph/badge.svg)](https://app.codecov.io/gh/did-packages/DRDID?branch=master)
 [![R build status](https://github.com/did-packages/DRDID/workflows/R-CMD-check/badge.svg)](https://github.com/did-packages/DRDID/actions)
-[![R-CMD-check](https://github.com/did-packages/DRDID/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/did-packages/DRDID/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 
