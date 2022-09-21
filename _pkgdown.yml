@@ -1,5 +1,7 @@
 url: https://did-packages.github.io/DRDID/
 destination: docs
+development:
+  mode: auto
 template:
   params:
     bootswatch: flatly
