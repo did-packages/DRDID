@@ -18,7 +18,7 @@ See the [package manual](https://did-packages.github.io/DRDID/reference/index.ht
 
 
 If you end up using this package, please cite our paper:
-* Sant'Anna, Pedro H. C., and Zhao, Jun (2020), ["Doubly Robust Difference-in-Differences Estimators"](https://doi.org/10.1016/j.jeconom.2020.06.003), *Journal of Econometrics*, Vol. 219 (1), pp. 101-122.
+*Sant'Anna, Pedro H. C., and Zhao, Jun (2020), ["Doubly Robust Difference-in-Differences Estimators"](https://doi.org/10.1016/j.jeconom.2020.06.003), Journal of Econometrics, Vol. 219 (1), pp. 101-122*.
 
 
 ## Installation
