@@ -12,7 +12,7 @@ The `DRDID` R package implements different estimators for the Average Treatment 
 The main estimators implemented here are the locally efficient, doubly-robust DID estimators proposed by [Sant'Anna and Zhao (2020), Doubly Robust Difference-in-Differences Estimators](https://doi.org/10.1016/j.jeconom.2020.06.003). The package covers both panel data and repeated cross-section data setups with two treatment groups (treated and comparison group) and two time periods (pre-treatment and post-treatment).
 
 
-See the [package manual](https://psantanna.com/DRDID/reference/index.html) for documentation of all package functions (with examples).
+See the [package manual](https://did-packages.github.io/DRDID/reference/index.html) for documentation of all package functions (with examples).
 
 
 If you end up using this package, please cite our paper:
@@ -24,7 +24,7 @@ To install the most recent version of the `DRDID` package from GitHub:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("pedrohcgs/DRDID")
+remotes::install_github("did-packages/DRDID")
 ```
 
 ## Short example
@@ -51,8 +51,8 @@ summary(out)
 
 ```
 
-For additional details on the usage of the **drdid** function, see [check the manual](https://psantanna.com/DRDID/reference/drdid.html).
+For additional details on the usage of the **drdid** function, see [check the manual](https://did-packages.github.io/DRDID/reference/drdid.html).
         
 
-To implement IPW and outcome regression DID estimators, check [here](https://psantanna.com/DRDID/reference/ipwdid.html) and [here](https://psantanna.com/DRDID/reference/ordid.html), respectively.
+To implement IPW and outcome regression DID estimators, check [here](https://did-packages.github.io/DRDID/reference/ipwdid.html) and [here](https://did-packages.github.io/DRDID/reference/ordid.html), respectively.
 
